@@ -11,6 +11,10 @@ After a week of using the app, I'm feeling great. Headspace excells keeping me a
 
 ![High Five](./assets/high-five.jpg)
 
+I first navigated through the clean and intuitive interface. Upon logging in, I was greeted by a welcoming home screen, adorned with calming colors and simple icons. I easily found the 'Get Started' button and tapped it to begin my meditation journey. The app seamlessly guided me through the onboarding process, providing clear instructions on how to select my preferences and customize my experience. Once inside the meditation library, I appreciated the organized layout, with categories such as 'Basics,' 'Sleep,' and 'Stress' neatly displayed. 
+
+I selected my first meditation session and was impressed by the seamless transition into the guided practice. The minimalist design allowed me to focus solely on the soothing voice of the meditation coach, without any distractions. After completing the session, I navigated back to the home screen effortlessly, where I discovered additional features like 'Sleep Sounds' and 'Mindful Moments.' The app's use of subtle animations and gentle transitions enhanced the overall user experience, making it feel both calming and engaging.
+
 But the app is not perfect and there are some issues. For example, sometimes the app can be a bit slow to update, especially when it comes to tracking your habits. But still, the overall vibe of Headspace is so positive and motivational that you can't help but overlook the occasional glitch.
 
 ![Snail](./assets/snail.jpg)
